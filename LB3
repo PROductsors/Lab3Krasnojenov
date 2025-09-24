@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="uk">
+<body>
+
+    <header>
+        <h1>Вебсайт</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Головна</a></li>
+                <li><a href="#">Про нас</a></li>
+                <li><a href="#">Послуги</a></li>
+                <li><a href="#">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Основний контент</h2>
+            <article>
+                <h3>Стаття</h3>
+                <p>Тут знаходиться текст статті. Семантичні теги, такі як <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code> та <code>&lt;footer&gt;</code>, роблять код більш зрозумілим і доступним для пошукових систем та програм для читання з екрана.</p>
+            </article>
+        </section>
+    </main>
+
+    <aside>
+        <h3>Додаткова інформація</h3>
+        <ul>
+            <li>https://javascript.org.ua/osnovi-semantiki-html</li>
+            <li>https://w3schoolsua.github.io/html/html5_semantic_elements.html</li>
+            <li>https://uk.wikipedia.org/wiki</li>
+        </ul>
+    </aside>
+
+    <footer>
+        <p>&copy; 2025 Красноженов Костянтин.</p>
+    </footer>
+
+</body>
+</html>
